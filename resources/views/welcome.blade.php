@@ -82,7 +82,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     
-                </div>schattige kat
+                </div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
